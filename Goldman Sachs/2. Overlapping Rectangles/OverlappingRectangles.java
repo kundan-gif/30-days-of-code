@@ -1,4 +1,7 @@
 public class OverlappingRectangles {
+ 
+   //Problem - Overlapping Rectangles
+   //Problem link - https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/.
 
     int doOverlap(int[] L1, int[] R1, int[] L2, int[] R2) {
         // If one rectangle is on left side of other
